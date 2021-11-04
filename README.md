@@ -29,7 +29,7 @@ Installing GO and Fyne can be tricky so ensure that you are following the steps 
 ## Building Virtual Desktop
 Now that GO and Fyne are installed in your OS you are ready to build the virtual desktop.
 > You must be connected to a stable internet connection to build and run the application.
-1. Download the [code]() and place it in a folder.
+1. Download the [code](https://github.com/madhur3u/GOVirtualDesktop) and place it in a folder.
 2. Now open terminal in this folder and execute the following command.
 ```go
 go build main.go calc.go notes.go gallery.go password.go weather.go music.go numbergame.go getTime.go
@@ -38,18 +38,18 @@ go build main.go calc.go notes.go gallery.go password.go weather.go music.go num
 4. Open the main executable file and your virtual desktop environment will open.
 
 ## Working
-The applications are made in different files and then their functions are called in [main.go]() file to integrate them into the virtual desktop. The icons used in the main screen are loaded from net and all other images used for app background are included in code folder. 
+The applications are made in different files and then their functions are called in [main.go](https://github.com/madhur3u/GOVirtualDesktop/blob/main/main.go) file to integrate them into the virtual desktop. The icons used in the main screen are loaded from net and all other images used for app background are included in code folder. 
 
 Codes for applications -
-1. [Main File]()
-2. [Date Time Module]()
-3. [Calculator]()
-4. [Notepad]()
-5. [Gallery]()
-6. [Weather]()
-7. [Password Generator]()
-8. [Music Player]()
-9. [Number Game]()
+1. [Main File](https://github.com/madhur3u/GOVirtualDesktop/blob/main/main.go)
+2. [Date Time Module](https://github.com/madhur3u/GOVirtualDesktop/blob/main/getTime.go)
+3. [Calculator](https://github.com/madhur3u/GOVirtualDesktop/blob/main/calc.go)
+4. [Notepad](https://github.com/madhur3u/GOVirtualDesktop/blob/main/notes.go)
+5. [Gallery](https://github.com/madhur3u/GOVirtualDesktop/blob/main/gallery.go)
+6. [Weather](https://github.com/madhur3u/GOVirtualDesktop/blob/main/weather.go)
+7. [Password Generator](https://github.com/madhur3u/GOVirtualDesktop/blob/main/password.go)
+8. [Music Player](https://github.com/madhur3u/GOVirtualDesktop/blob/main/music.go)
+9. [Number Game](https://github.com/madhur3u/GOVirtualDesktop/blob/main/numbergame.go)
 
 ## Screenshots
 
