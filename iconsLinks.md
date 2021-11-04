@@ -1,0 +1,17 @@
+
+![bg1](https://user-images.githubusercontent.com/89251393/140249501-423ecbda-f369-4827-8bf0-2a31433ade45.png)
+![bg2](https://user-images.githubusercontent.com/89251393/140249505-a3121a19-a56a-453c-8f2f-5555bcc286e3.png)
+![bg3](https://user-images.githubusercontent.com/89251393/140249509-3b2bb341-43fb-46bb-b46a-49bf88c45d84.png)
+![bg5](https://user-images.githubusercontent.com/89251393/140249519-4f2c7952-89b6-4371-bcdd-79d5a30fae7e.png)
+![calc](https://user-images.githubusercontent.com/89251393/140249548-0fc343c7-0da6-4586-a39e-8fbb13f5dd44.png)
+![desktopw]
+![game](https://user-images.githubusercontent.com/89251393/140249587-1d0981cf-88d3-457d-93d2-e488213f8fdf.png)
+![ico](https://user-images.githubusercontent.com/89251393/140249589-f188b97f-da25-4d7e-bfa1-6170b01abe54.png)
+![key](https://user-images.githubusercontent.com/89251393/140249591-17c40d54-869c-4d74-a89b-6c57b8e41053.png)
+![music jpg](https://user-images.githubusercontent.com/89251393/140249597-d0959720-8794-4a45-b6b5-916306e092c4.jpg)
+![music](https://user-images.githubusercontent.com/89251393/140249608-9c1f5282-3172-42ca-bb8c-c5f7d7a45730.png)
+![note](https://user-images.githubusercontent.com/89251393/140249614-adc807e1-0d93-417f-bb13-b8903c12ee9d.png)
+![quit](https://user-images.githubusercontent.com/89251393/140249619-cb66d5e9-0f2e-439c-a222-431cba8e5cac.png)
+![gallery](https://user-images.githubusercontent.com/89251393/140249556-e51b6917-2805-4086-8d31-e70eeac4c708.png)
+![game](https://user-images.githubusercontent.com/89251393/140249573-d82ae6e9-9368-4133-9016-6f3687c04359.jpg)
+![weather](https://user-images.githubusercontent.com/89251393/140250230-cdddb4bd-8403-4b1a-a586-78bc3b9ad24d.png)
