@@ -30,6 +30,7 @@ Installing GO and Fyne can be tricky so ensure that you are following the steps 
 Now that GO and Fyne are installed in your OS you are ready to build the virtual desktop.
 > You must be connected to a stable internet connection to build and run the application.
 
+
 1. Download the [code](https://github.com/madhur3u/GOVirtualDesktop) and place it in a folder.
 2. Now open terminal in this folder and execute the following command.
 ```go
